@@ -1,0 +1,46 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color:gray;
+}
+
+#wrap {
+  background-color:gray;
+  color:black;
+}
+
+#header {
+  background-color:gray;
+  height:70px;
+}
+
+#title {
+  color:black;
+  text-align:center;
+  font-family: 'Arial';
+  padding-top:16px;
+}
+
+#buttonArea{
+  margin-top:10px;
+}
+
+.btn {
+  margin:3px;
+}
+
+#gifArea {
+  margin-top:20px;
+}
+
+.submit {
+  background-color: #262626;
+  color:white;
+  border:1px solid #646464;
+}
+
+
+
